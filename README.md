@@ -18,13 +18,7 @@ To install:
 
 ## Screenshots
 
-Classic UI (PhpStorm 2023.3.3)
-
-
-
-New UI (WebStorm 2024.1 EAP)
-
-
+TODO
 
 <!-- Plugin description end -->
 
