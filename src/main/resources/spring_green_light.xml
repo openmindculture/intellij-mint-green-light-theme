@@ -1,0 +1,14 @@
+<scheme name="spring_green_light" version="142" parent_scheme="Default">
+    <colors>
+        <option name="GUTTER_BACKGROUND" value="7B923F" />
+        <option name="GUTTER_FOREGROUND" value="F3F4D4" />
+    </colors>
+    <attributes>
+        <option name="TEXT">
+            <value>
+                <option name="BACKGROUND" value="F3F4D4" />
+                <option name="FOREGROUND" value="7B923F" />
+            </value>
+        </option>
+    </attributes>
+</scheme>
