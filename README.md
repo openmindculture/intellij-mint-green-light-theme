@@ -1,20 +1,20 @@
-# Spring Green Light Theme
+# Mint Green Light Theme
 
 <!-- Plugin description -->
-[Spring Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.1 (244) EAP and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
+[Mint Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
 
 If you like to support development, you can open a pull request on GitHub.
 
 For JetBrains IDEs, 
 To install:
 - Go to Settings (Preferences) | Plugins, find the theme plugin and install it
-- (_or_ download [Spring Green Light Theme from JetBrains Plugins page](TODO)) 
+- (_or_ download [Mint Green Light Theme from JetBrains Plugins page](TODO)) 
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
 
 ## Support/Contribution
 
-[Report an issue](https://github.com/openmindculture/intellij-spring-green-light-theme/issues/new) on or create a pull request [on GitHub](https://github.com/openmindculture/intellij-spring-green-light-theme/issues/new).
+[Report an issue](https://github.com/openmindculture/intellij-mint-green-light-theme/issues/new) on or create a pull request [on GitHub](https://github.com/openmindculture/intellij-mint-green-light-theme/issues/new).
 
 ## Screenshots
 

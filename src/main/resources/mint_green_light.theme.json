@@ -1,8 +1,8 @@
 {
-  "name": "Spring Green Light",
+  "name": "Mint Green Light",
   "dark": false,
   "author": "Ingo Steinke (openmindculture)",
-  "editorScheme": "/spring_green_light.xml",
+  "editorScheme": "/mint_green_light.xml",
   "colors": {
     "default": "#b6d600",
     "greenishYellow": "#b6d600",

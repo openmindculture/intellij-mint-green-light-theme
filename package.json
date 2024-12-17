@@ -1,5 +1,5 @@
 {
-  "name": "intellij-spring-green-light-theme",
+  "name": "intellij-mint-green-light-theme",
   "version": "1.0.0",
   "description": "theme for JetBrains IDE editors like PhpStorm or IntelliJ IDEA",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openmindculture/intellij-spring-green-light-theme.git"
+    "url": "git+https://github.com/openmindculture/intellij-mint-green-light-theme.git"
   },
   "author": "Ingo Steinke"
 }
