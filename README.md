@@ -1,7 +1,7 @@
 # Mint Green Light Theme
 
 <!-- Plugin description -->
-[Mint Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Code based on Orange Rain Light Theme and JetBrains default light editor scheme.
+[Mint Green Light Theme](https://plugins.jetbrains.com/plugin/29656-mint-green-light-theme/) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Code based on Orange Rain Light Theme and JetBrains default light editor scheme.
 
 If you like to support development, you can open a pull request on GitHub.
 
@@ -18,7 +18,11 @@ To install:
 
 ## Screenshots
 
-TODO
+![UI screenshot 1](screenshot-mint-green-light-1.png)
+
+![UI screenshot 2](screenshot-mint-green-light-2.png)
+
+![UI screenshot 3](screenshot-mint-green-light-3.png)
 
 <!-- Plugin description end -->
 
@@ -47,9 +51,7 @@ To find out the internal names of UI elements, we can now use the [UI inspector]
 
 The `.palette-info.css` in the root directory can be used for a better editor preview, if the IDE does not show color previews in `.xml` and `.json` configuration files.
 
-![screenshot: palette](screenshot-palette-css.png)
-
-TODO
+![screenshot: palette](screenshot-palette-info.png)
 
 ### Development, Build and Export
 

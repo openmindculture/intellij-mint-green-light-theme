@@ -1,12 +1,12 @@
 <scheme name="mint_green_light" version="142" parent_scheme="Default">
     <colors>
-        <option name="GUTTER_BACKGROUND" value="CAF4B7" />
-        <option name="GUTTER_FOREGROUND" value="137956" />
+        <option name="GUTTER_BACKGROUND" value="BFE558" />
+        <option name="GUTTER_FOREGROUND" value="095D4A" />
     </colors>
     <attributes>
         <option name="TEXT">
             <value>
-                <option name="BACKGROUND" value="F3F4D4" />
+                <option name="BACKGROUND" value="E9F4CA" />
                 <option name="FOREGROUND" value="095D4A" />
             </value>
         </option>
