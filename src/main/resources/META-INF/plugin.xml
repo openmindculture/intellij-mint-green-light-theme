@@ -1,9 +1,9 @@
-<idea-plugin url="https://github.com/openmindculture/intellij-spring-green-light-theme">
-    <name>Spring Green Light Theme</name>
-    <id>com.github.openmindculture.intellijspringgreenlighttheme</id>
-    <description>Spring Green Light Theme for IntelliJ Platform</description>
-    <change-notes>Stable theme release tested with 2024.1</change-notes>
-    <version>1.0.0</version>
+<idea-plugin url="https://github.com/openmindculture/intellij-cute-pink-light-theme">
+    <name>Mint Green Light Theme</name>
+    <id>com.github.openmindculture.intellijmintgreenlighttheme</id>
+    <description>Mint Green Light Theme for IntelliJ Platform</description>
+    <change-notes>Stable theme release tested with 2024.2.5</change-notes>
+    <version>1.1.1</version>
     <vendor url="https://github.com/openmindculture/">Ingo Steinke (openmindculture)</vendor>
 
     <!-- Compatible with the following versions of IntelliJ Platform:
@@ -16,6 +16,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="org.jetbrains.plugins.spring_green_lighttheme" path="/spring_green_light.theme.json"/>
+        <themeProvider id="org.jetbrains.plugins.mint_green_lighttheme" path="/mint_green_light.theme.json"/>
     </extensions>
 </idea-plugin>

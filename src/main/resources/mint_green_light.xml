@@ -1,14 +1,13 @@
 <scheme name="mint_green_light" version="142" parent_scheme="Default">
     <colors>
-        <option name="DEFAULT" value="7B923F" />
-        <option name="GUTTER_BACKGROUND" value="7B923F" />
-        <option name="GUTTER_FOREGROUND" value="F1F7C2" />
+        <option name="GUTTER_BACKGROUND" value="FFE8B7" />
+        <option name="GUTTER_FOREGROUND" value="800E34" />
     </colors>
     <attributes>
         <option name="TEXT">
             <value>
-                <option name="BACKGROUND" value="F1F7C2" />
-                <option name="FOREGROUND" value="7B923F" />
+                <option name="BACKGROUND" value="F9F5D5" />
+                <option name="FOREGROUND" value="223255" />
             </value>
         </option>
     </attributes>
