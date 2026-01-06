@@ -1,7 +1,7 @@
 # Mint Green Light Theme
 
 <!-- Plugin description -->
-[Mint Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
+[Mint Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Code based on Orange Rain Light Theme and JetBrains default light editor scheme.
 
 If you like to support development, you can open a pull request on GitHub.
 

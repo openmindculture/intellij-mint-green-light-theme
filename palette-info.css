@@ -1,14 +1,17 @@
 .spring_green {
-    --greenishYellow: #b6d600;
-    --pistachioYellow: #f7fc99;
     --white: #ffffff;
-    --greenishLight: #f3f4d4;
-    --greenishMedium: #d4d79e;
-    --springGreen: #b8cc82;
-    --islandGreen: #48a94b;
-    --brightGreen: #84b50e;
-    --darkGreen: #7b923f;
-    --mossBrown: #7d732f;
-    --black: #000000;
-    --radishRed: #eb3345;
+    --greenishLight: #f3f4d4; /* text editor background */
+    --thunarMint: #5aaa9a;
+    --greenishYellow: #b6d600;
+    --lightConsole: #caf4b7;  /* gutter background */
+    --pistachioYellow: #f7fc99;
+    --fadedFooter: #a7d1b6;
+    --neonGrass: #79c310;
+    --mellowFlow: #95a7b4;
+    --darkConsole: #095d4a; /* text editor foreground */
+    --greenEucalyptus: #728660;
+    --transformativeTeal: #2f6364;
+    --neonPastel: #aff1bb;
+    --neonMint: #6ae9b1; /* subtle hairlines */
+    --seriousMintGreen: #137956; /* gutter foreground */
 }
