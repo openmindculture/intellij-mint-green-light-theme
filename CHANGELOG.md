@@ -1,9 +1,11 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
+# IntelliJ Mint Green Light Theme Changelog
 
-# intellij-mint-green-light-theme Changelog
+## 1.1.1 - 2026-01-06
+- clean rebuild based on Orange Rain Light Theme #1
+- update colors based on mood board collage #2
 
 ## 1.0.0 - 2024-12-17
 - rename "spring" to "mint"
 
-## 1.0.0 - 2024-02-20
-- initial release
+## 0.0.1 - 2024-02-20
+- initial release candidate

@@ -1,14 +1,16 @@
 # Mint Green Light Theme
 
 <!-- Plugin description -->
-[Mint Green Light Theme](TODO) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Based on Cute Pink Light Theme and JetBrains default light editor scheme. There is also an Orange Rain Dark Theme.
+[Mint Green Light Theme](https://plugins.jetbrains.com/plugin/29656-mint-green-light-theme/) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Code based on Orange Rain Light Theme and JetBrains default light editor scheme.
+
+Mint Green Light Theme for IntelliJ Platform (beta, please report issues on GitHub) featuring shades of green from yellowish green to mint green, warm eucalyptus and deep grass green. Apart from its vivid directory/guttter background and its neon mint/aqua accent lines, Mint Green Light theme is a slightly pastel light theme using a light pistachio/yellow/sepia greenish editor background.
 
 If you like to support development, you can open a pull request on GitHub.
 
-For JetBrains IDEs, 
+For JetBrains IDEs,
 To install:
 - Go to Settings (Preferences) | Plugins, find the theme plugin and install it
-- (_or_ download [Mint Green Light Theme from JetBrains Plugins page](TODO)) 
+- (_or_ download [Mint Green Light Theme from JetBrains Plugins page](TODO))
 - Restart IDE
 - Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown
 
@@ -18,7 +20,11 @@ To install:
 
 ## Screenshots
 
-TODO
+![UI screenshot 1](screenshot-mint-green-light-1.png)
+
+![UI screenshot 2](screenshot-mint-green-light-2.png)
+
+![UI screenshot 3](screenshot-mint-green-light-3.png)
 
 <!-- Plugin description end -->
 
@@ -47,7 +53,7 @@ To find out the internal names of UI elements, we can now use the [UI inspector]
 
 The `.palette-info.css` in the root directory can be used for a better editor preview, if the IDE does not show color previews in `.xml` and `.json` configuration files.
 
-![screenshot: palette](screenshot-palette-css.png)
+![screenshot: palette](screenshot-palette-info.png)
 
 ### Development, Build and Export
 
@@ -55,14 +61,14 @@ The `.palette-info.css` in the root directory can be used for a better editor pr
 - As a contributor:
   - create a pull request on GitHub.
 - As a maintainer:
-  - Edit theme version, supported IDE versions, and other data, in 
+  - Edit theme version, supported IDE versions, and other data, in
     - `src/main/resources/META-INF/plugin.xml`
     - `src/main/resources/META-INF/MANIFEST.MF`
     - `package.json`
     - `gradle.properties` (only used for IntelliJ gradle build)
     - `build.gradle.kts` (only used for IntelliJ gradle build)
-  - Build using one of the methods described below. 
-  - Add a change log in `CHANGELOG.md`. 
+  - Build using one of the methods described below.
+  - Add a change log in `CHANGELOG.md`.
   - Add a git tag, create a release, and add the theme zip.
   - Upload the theme zip to JetBrains marketplace.
 
@@ -76,17 +82,17 @@ The `.palette-info.css` in the root directory can be used for a better editor pr
 #### Alternative Manual Export (without IntelliJ Build Process)
 
 Create an archive `spring-green-light-theme-x.y.z.zip` containing:
-  - `spring-green-theme-light-theme/` 
-    - `lib/`
-      - `intellij-spring-green-light-theme-x.y.z.jar`
-        The `.jar` file is another zip archive containing the contents of `src/main/resources`
-        with **no additional folder in between, e.g.:
-          - `spring_green_light.theme.json`
-          - `spring_green_light.xml`
-          - `META-INF/`
-            - `plugin.xml`
-            - `pluginIcon.svg`
-            - `MANIFEST.MF`
+- `spring-green-theme-light-theme/`
+  - `lib/`
+    - `intellij-spring-green-light-theme-x.y.z.jar`
+      The `.jar` file is another zip archive containing the contents of `src/main/resources`
+      with **no additional folder in between, e.g.:
+      - `spring_green_light.theme.json`
+      - `spring_green_light.xml`
+      - `META-INF/`
+        - `plugin.xml`
+        - `pluginIcon.svg`
+        - `MANIFEST.MF`
 
 A valid `MANIFEST.MF` example is included to simplify theme export and update.
 
@@ -99,6 +105,12 @@ You can use the build script `./build.sh $version` to build, e.g.
 - add current IDEA version to supported targets
 - rebuild artifacts as described above
 
+### Original Mood Board Collage
+
+![Moodboard Collage](screenshot-moodboard.png)
+
 ### Author
 
-I am Ingo Steinke ([@openmindculture](https://github.com/openmindculture) on GitHub) a creative web developer, creating sustainable software and websites. If you like my [talks](https://www.ingo-steinke.com/#talks-events) and articles, feel free to [support me on patreon](https://www.patreon.com/ingosteinke), [buy me a coffee](https://www.buymeacoffee.com/ingosteinke) or [hire me as a freelancer](https://www.ingo-steinke.com/#contact).
+I am Ingo Steinke ([@openmindculture](https://github.com/openmindculture) on GitHub) a creative web developer, creating sustainable software and websites.
+
+https://www.ingo-steinke.de/

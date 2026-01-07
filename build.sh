@@ -1,15 +1,15 @@
 echo "build theme distribution $1 ..."
-mkdir -pv build/intellij-mint-green-light-theme
-rm -rf build/intellij-mint-green-light-theme/*
-mkdir -pv build/intellij-mint-green-light-theme/lib
-mkdir -pv build/intellij-mint-green-light-theme-$1
-cp -rv src/main/resources/* build/intellij-mint-green-light-theme-$1/
+mkdir -pv build/mint-green-light-theme
+rm -rf build/mint-green-light-theme/*
+mkdir -pv build/mint-green-light-theme/lib
+mkdir -pv build/mint-green-light-theme-$1
+cp -rv src/main/resources/* build/mint-green-light-theme-$1/
 cd build
-cd intellij-mint-green-light-theme-$1
-zip -rv ../intellij-mint-green-light-theme/lib/intellij-mint-green-light-theme-$1.jar ./*
+cd mint-green-light-theme-$1
+zip -rv ../mint-green-light-theme/lib/mint-green-light-theme-$1.jar ./*
 cd ..
 mkdir -pv distributions
-zip -rv distributions/intellij-mint-green-light-theme-$1.zip.tmp intellij-mint-green-light-theme
-rm -f distributions/intellij-mint-green-light-theme-$1.zip
-mv distributions/intellij-mint-green-light-theme-$1.zip.tmp distributions/intellij-mint-green-light-theme-$1.zip
+zip -rv distributions/mint-green-light-theme-$1.zip.tmp mint-green-light-theme
+rm -f distributions/mint-green-light-theme-$1.zip
+mv distributions/mint-green-light-theme-$1.zip.tmp distributions/mint-green-light-theme-$1.zip
 echo "done"
