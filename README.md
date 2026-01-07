@@ -3,6 +3,8 @@
 <!-- Plugin description -->
 [Mint Green Light Theme](https://plugins.jetbrains.com/plugin/29656-mint-green-light-theme/) is a light IDE theme for JetBrains IDEs (PhpStorm, WebStorm, IntelliJ IDEA, etc.), version 2020.2 and above, tested up to 2024.2 (242) and should also support later IDEA versions. Code based on Orange Rain Light Theme and JetBrains default light editor scheme.
 
+Mint Green Light Theme for IntelliJ Platform (beta, please report issues on GitHub) featuring shades of green from yellowish green to mint green, warm eucalyptus and deep grass green. Apart from its vivid directory/guttter background and its neon mint/aqua accent lines, Mint Green Light theme is a slightly pastel light theme using a light pistachio/yellow/sepia greenish editor background.
+
 If you like to support development, you can open a pull request on GitHub.
 
 For JetBrains IDEs,
