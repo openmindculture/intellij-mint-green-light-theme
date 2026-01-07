@@ -3,7 +3,7 @@
     <id>com.github.openmindculture.intellijmintgreenlighttheme</id>
     <description>Mint Green Light Theme for IntelliJ Platform (beta, please report issues on GitHub) featuring shades of green from yellowish green to mint green, warm eucalyptus and deep grass green. Apart from its vivid directory/guttter background and its neon mint/aqua accent lines, Mint Green Light theme is a slightly pastel light theme using a light pistachio/yellow/sepia greenish editor background.</description>
     <change-notes>Stable theme release tested with 2024.2.5</change-notes>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <vendor url="https://github.com/openmindculture/">Ingo Steinke (openmindculture)</vendor>
 
     <!-- Compatible with the following versions of IntelliJ Platform:

@@ -1,5 +1,8 @@
 # IntelliJ Mint Green Light Theme Changelog
 
+## 1.1.2 - 2026-01-07
+- update description, add bug notice
+
 ## 1.1.1 - 2026-01-06
 - clean rebuild based on Orange Rain Light Theme #1
 - update colors based on mood board collage #2
